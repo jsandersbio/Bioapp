@@ -11,10 +11,10 @@ i.tabbar-demo-icon-1 {
 i.tabbar-demo-icon-2 {
   width: 32px;
   height: 32px;
-  background-image: url("img/i-form-bell.svg");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/i-form-bell.svg");
 }
 .active i.tabbar-demo-icon-2 {
-  background-image: url("img/i-form-bell-active.svg");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/i-form-bell-active.svg");
 }
 i.tabbar-demo-icon-3 {
   width: 28px;
