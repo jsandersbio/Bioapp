@@ -3,10 +3,10 @@
 i.tabbar-demo-icon-1 {
   width: 30px;
   height: 30px;
-  background-image: url("img/i-form-bell.svg");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/i-form-bell.svg");
 }
 .active i.tabbar-demo-icon-1 {
-  background-image: url("img/i-form-bell-active.svg");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/i-form-bell-active.svg");
 }
 i.tabbar-demo-icon-2 {
   width: 32px;
@@ -19,18 +19,18 @@ i.tabbar-demo-icon-2 {
 i.tabbar-demo-icon-3 {
   width: 28px;
   height: 28px;
-  background-image: url("img/i-form-reports.svg");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/i-form-reports.svg");
 }
 .active i.tabbar-demo-icon-3 {
-  background-image: url("img/i-form-reports-active.svg");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/i-form-reports-active.svg");
 }
 i.tabbar-demo-icon-4 {
   width: 25px;
   height: 30px;
-  background-image: url("img/i-form-settings.svg");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/i-form-settings.svg");
 }
 .active i.tabbar-demo-icon-4 {
-  background-image: url("img/i-form-settings-active.svg");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/i-form-settings-active.svg");
 }
 
 
