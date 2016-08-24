@@ -2126,22 +2126,22 @@ i.icon.icon-plus {
 i.icon.icon-trident {
   width: 29px;
   height: 29px;
-  background-image: url("img/trident.png");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/trident.png");
 }
 i.icon.icon-onpoint {
   width: 29px;
   height: 29px;
-  background-image: url("img/onpoint.png");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/onpoint.png");
 }
 i.icon.icon-express {
   width: 29px;
   height: 29px;
-  background-image: url("img/express.png");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/express.png");
 }
 i.icon.icon-reports {
   width: 29px;
   height: 29px;
-  background-image: url("img/i-form-reports.svg");
+  background-image: url("/Users/jeremy/Documents/Bioapp/img/i-form-reports.svg");
 }
 .badge {
   font-size: 13px;
